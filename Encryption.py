@@ -1,5 +1,5 @@
-# reg.no.21MEI10049
-# name-ajay vishwakarma final lab exam
+
+# name-ajay vishwakarma 
 # this code for a create a file --->take input--> convert the text into encrypted text and save in the file
 createfile = input("enter file location:\n")
 
